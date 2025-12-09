@@ -57,8 +57,7 @@ Contributions are welcome! Feel free to submit issues or pull requests to improv
 License
 This project is licensed under the MIT License.
 
-Made with ❤️ by Mwaki Denis
-Supporting
+**Made with ❤️ by Mwaki Denis**
 
 
 🖥️ Stay organized, boost productivity, and manage your tasks efficiently!
